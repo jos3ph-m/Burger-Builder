@@ -1,7 +1,6 @@
 import React from "react";
-import buildControls from "../BuildControls";
 
-import classes from "./Buildcontrol.css";
+import classes from "./BuildControl.css";
 
 const buildControl = (props) => {
   return (
@@ -13,4 +12,4 @@ const buildControl = (props) => {
   );
 };
 
-export default buildControls;
+export default buildControl;
